@@ -14,8 +14,10 @@
 
 ## Informações adicionais:
 
-* Não foi criado a questão dos descontos: "Deverá ser possível aplicar um percentual de desconto no pedido, porém apenas para os
-itens que sejam produto (não serviço); o desconto será sobre o valor total dos produtos".
+* Foi realizado a implementação apenas da primeira atividade;
 
-* O programa foi desenvolvido utilizando a divisão por pacotes, para rodar o mesmo basta utilizar a classe RunApp.
+* Não foi criado a questão dos descontos: "Deverá ser possível aplicar um percentual de desconto no pedido, porém apenas para os
+itens que sejam produto (não serviço); o desconto será sobre o valor total dos produtos";
+
+* O programa foi desenvolvido utilizando a divisão por pacotes, para rodar o mesmo basta utilizar a classe RunApp;
 
