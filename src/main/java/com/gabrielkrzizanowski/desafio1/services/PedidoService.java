@@ -13,6 +13,7 @@ public class PedidoService {
 	@Autowired
 	private PedidoRepository pedidoRepository;
 	
+	//Realiza a aplicação do percentual do desconto com base nas regras estabelecidas.
 	public void percentualDescontoPedido(UUID id, Double percentual) {
 		
 	}
