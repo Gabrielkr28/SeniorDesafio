@@ -9,7 +9,7 @@
 ## Diagrama utilizado como exemplo para criação das relações:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64164102/170833222-448d2570-c7c1-4735-8309-e214e9b764e1.png" />
+  <img src="https://user-images.githubusercontent.com/64164102/170833939-374bf13a-d5e4-4b9d-983c-ae414d120956.png" />
 </p>
 
 ## Informações adicionais:
