@@ -1,0 +1,21 @@
+# Senior Desafio  <img src="https://user-images.githubusercontent.com/64164102/170833441-eaa34df3-8764-43bd-9bf4-a6e27ea0a512.png" width="300" height="90" align ="right">
+
+## Informações:
+* JDK: 11
+* SGBD: DBeaver
+* Banco: PostGre
+* Spring Version: 2.7.0
+
+## Diagrama utilizado como exemplo para criação das relações:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64164102/170833222-448d2570-c7c1-4735-8309-e214e9b764e1.png" />
+</p>
+
+## Informações adicionais:
+
+* Não foi criado a questão dos descontos: "Deverá ser possível aplicar um percentual de desconto no pedido, porém apenas para os
+itens que sejam produto (não serviço); o desconto será sobre o valor total dos produtos".
+
+* O programa foi desenvolvido utilizando a divisão por pacotes, para rodar o mesmo basta utilizar a classe RunApp.
+
